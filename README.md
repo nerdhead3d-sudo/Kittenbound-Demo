@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td><img src="images/luna.jpg" alt="Luna the mage"><br><b>A village to come back to.</b> Buy spells from Luna and upgrades from Ares.</td>
-    <td><img src="images/arlong.jpg" alt="Arlong the sage"><br><b>A story to uncover.</b> Arlong remembers what everyone else has forgotten.</td>
+    <td><img src="images/zoe.jpg" alt="Zoe the sage"><br><b>A story to uncover.</b> Zoe remembers what everyone else has forgotten.</td>
   </tr>
   <tr>
     <td><img src="images/training.jpg" alt="Training room"><br><b>Learn at your own pace.</b> The training room slows time down until you get it right.</td>
@@ -49,7 +49,7 @@
 - **Combat:** dodge, perfect parry with counterattacks, spells and gear
 - **Daring:** a flame that grows with bold play — burn it for a fiery blast and a few seconds of invulnerability
 - **Training room** with a master, to learn every move
-- **The village:** Ares the alchemist, Luna the mage and Arlong the sage
+- **The village:** Ares the alchemist, Luna the mage and Zoe the sage
 - **Ancient frescoes** broken into pieces, telling a forgotten story
 - **Keyboard & mouse or controller** (PlayStation / Xbox), fully rebindable
 
