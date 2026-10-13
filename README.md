@@ -50,6 +50,7 @@
 - **Daring:** a flame that grows with bold play — burn it for a fiery blast and a few seconds of invulnerability
 - **Training room** with a master, to learn every move
 - **The village:** Ares the alchemist, Luna the mage and Zoe the sage
+- **Cherie**, a travelling merchant hidden somewhere in the crypts
 - **Ancient frescoes** broken into pieces, telling a forgotten story
 - **Keyboard & mouse or controller** (PlayStation / Xbox), fully rebindable
 
